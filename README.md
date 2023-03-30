@@ -1,3 +1,4 @@
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lucerion&show_icons=true&custom_title=Github%20Stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucerion&hide=html)
 
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucerion&theme=github)
