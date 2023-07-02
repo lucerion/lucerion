@@ -9,7 +9,7 @@
 * [save-the-old-reader-post](https://github.com/lucerion/save-the-old-reader-post) - saves [The Old Reader](https://theoldreader.com/) post locally
 * [mychords_scraper](https://github.com/lucerion/mychords_scraper) - [mychords](https://mychords.net) user favorites scraper
 * [pub_sub_hub](https://github.com/lucerion/pub_sub_hub) - proof of concept. Deliver content with pub/sub mechanism via Elixir RPC. Inspired by WebSub.
-* [scripts](https://music.yandex.ru) - scripts for different purposes ¯\\_(ツ)_/¯
+* [scripts](https://github.com/lucerion/scripts) - scripts for different purposes ¯\\_(ツ)_/¯
 * [vim-cheat-sheet](https://github.com/lucerion/vim-cheat-sheet) - Vim cheat sheet
 
 ## Vim plugins
