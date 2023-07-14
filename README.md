@@ -4,6 +4,7 @@
 * [vim-as-a-ruby-ide](https://github.com/lucerion/vim-as-a-ruby-ide) - Vim plugins asset for rubyists
 * [vimdoc](https://github.com/lucerion/vimdoc) - converts Vim help files to the different formats (markdown, json, yaml)
 * [jsregexp](https://github.com/lucerion/jsregexp) - Ruby to JavaScript regular expression converter gem
+* [worklogs-report](https://github.com/lucerion/worklogs-report) - worklogs report generator
 * [vk-most-mutual-friends](https://github.com/lucerion/vk-most-mutual-friends) - most mutual friends in [vk.com](https://vk.com)
 * [playlists-exporter ](https://github.com/lucerion/playlists-exporter) - music streaming services ([vk.com](https://vk.com), [Yandex.Music](https://music.yandex.ru)) playlists exporter
 * [save-the-old-reader-post](https://github.com/lucerion/save-the-old-reader-post) - saves [The Old Reader](https://theoldreader.com/) post locally
