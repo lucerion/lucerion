@@ -25,7 +25,6 @@
 * [vim-autocomplpop-ctags](https://github.com/lucerion/vim-autocomplpop-ctags) - ctags extension for [vim-autocomplpop](https://github.com/othree/vim-autocomplpop) Vim plugin
 * [ctrlp-grep](https://github.com/lucerion/ctrlp-grep) - Vim [CtrlP](https://github.com/ctrlpvim/ctrlp.vim) grep extension
 * [vim-reload](https://github.com/lucerion/vim-reload) - Vim plugin that reloads Vim config and plugins
-* [vim-file-bookmark](https://github.com/lucerion/vim-file-bookmark) - Vim plugin that makes bookmarks to files
 * [vim-case-converter](https://github.com/lucerion/vim-case-converter) - Vim plugin that converts selected words case (to snake case, camel case, upper case, etc). Extracted from [tpope/vim-abolish](https://github.com/tpope/vim-abolish)
 
 ## Templates
