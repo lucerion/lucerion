@@ -20,7 +20,7 @@
 * [vim-executor](https://github.com/lucerion/vim-executor) - Vim plugin that executes a shell command and redirects output to a new buffer
 * [vim-extract](https://github.com/lucerion/vim-extract) - Vim plugin that extracts selection to a new buffer
 * [vim-buffr](https://github.com/lucerion/vim-buffr) - Vim plugin for working with buffers
-* [vim-split-window-mods](https://github.com/lucerion/vim-split-window-mods) - simple Vim window splits
+* [vim-split-window-mods](https://github.com/lucerion/vim-split-window-mods) - simple Vim window placement splits
 * [vim-yacg](https://github.com/lucerion/vim-yacg) - yet another ctags generator Vim plugin
 * [vim-autocomplpop-ctags](https://github.com/lucerion/vim-autocomplpop-ctags) - ctags extension for [vim-autocomplpop](https://github.com/othree/vim-autocomplpop) Vim plugin
 * [ctrlp-grep](https://github.com/lucerion/ctrlp-grep) - Vim [CtrlP](https://github.com/ctrlpvim/ctrlp.vim) grep extension
